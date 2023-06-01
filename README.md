@@ -1,4 +1,4 @@
-# CarCrash
+# CarCrash - Proyecto Final Curso Unity
 Este es un proyecto hecho en Unity para el curso Creación de Videojuegos con Unity 3D de la categoría Inclusión-Digital dictada por la Subsecretaría de Servicios y País Digital (Argentina).
 El juego se trata de conducir un auto por la ciudad para obtener la mayor cantidad posible de diamantes, mientras que esquivas otros autos por andar en contramano. Contas con 3 vidas, y cada vez que choques con un auto
 se te descontará una vida. Cuando te quedes sin niguna, perderás el juego.
